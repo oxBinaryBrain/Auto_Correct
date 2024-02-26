@@ -51,22 +51,3 @@ public class Autocorrect {
             return dp[s1.length()][s2.length()];
         }
     }
-
-    public static void main(String[] args) {
-        Map<String, String> dictionary = new HashMap<>();
-        // Populate dictionary with some sample correct words
-        dictionary.put("hello", "hello");
-        dictionary.put("world", "world");
-        dictionary.put("java", "java");
-        dictionary.put("programming", "programming");
-        dictionary.put("language", "language");
-        // Add more words as needed
-
-        Dictionary autocorrectDictionary = new LevenshteinDictionary(dictionary);
-
-        String input = "helllo"; // Misspelled word
-        String corrected = autocorrectDictionary.getClosestMatch(input);
-        System.out.println("Input: " + input);
-        System.out.println("Corrected: " + corrected);
-    }
-}
