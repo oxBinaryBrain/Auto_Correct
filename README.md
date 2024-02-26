@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Usage
 
 1. Open the project in your preferred C# development environment (e.g., Visual Studio, Visual Studio Code).
-2. Modify the `Autocorrect.cs` file to include additional words in the dictionary if needed.
+2. Modify the `Program.cs` file to include additional words in the dictionary if needed.
 3. Run the project to test the autocorrect functionality with sample inputs.
 
 ## Contributing
