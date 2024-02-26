@@ -34,14 +34,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your proposed changes.
 
-## Authors
-
-- [Your Name](https://github.com/your-username)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Special thanks to [OpenAI](https://openai.com) for providing the language model used to generate this README.
