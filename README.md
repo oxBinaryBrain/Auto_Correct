@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository to your local machine using Git:
    ```bash
-     git clone https://github.com/your-username/autocorrect-csharp.git
+     git clone https://github.com/oxBinarybrain/autocorrect-csharp.git
     ```
 
 
