@@ -20,11 +20,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 1. Clone the repository to your local machine using Git:
+ git clone https://github.com/your-username/autocorrect-csharp.git
 
-
-
-
-2. Alternatively, you can download the ZIP file and extract it to your desired location.
+3. Alternatively, you can download the ZIP file and extract it to your desired location.
 
 ### Usage
 
